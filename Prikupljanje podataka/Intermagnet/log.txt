@@ -1,0 +1,6 @@
+# This log contains the list of files requested
+# Date of the request : 2017-06-15 21:38:45 UT
+# Type : definitive
+bdv20140315dmin.min.gz
+bdv20140316dmin.min.gz
+bdv20140317dmin.min.gz
